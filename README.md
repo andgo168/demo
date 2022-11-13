@@ -1,5 +1,5 @@
 ### 一、前言
-最近公司項目準備開始重構，框架選定為 Spring Boot ，本篇主要記錄了在 IDEA 中搭建 Spring Boot Maven 多模組專案的過程。
+本專案主要記錄了在 IDEA 中搭建 Spring Boot Maven 多模組專案的過程。
 
 ***
 ### 二、軟體及硬體環境
