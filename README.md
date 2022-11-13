@@ -638,4 +638,4 @@ package: com.orz.test
 
 ### 八、結語
 至此 Spring Boot Maven 多模組專案的搭建過程已經介紹完畢，後續會在此基礎上繼續集成一些中介軟體。
-> 源碼：[https://github.com/SymonLin/demo](https://github.com/SymonLin/demo)
+> 源碼：https://github.com/andgo168/demo
